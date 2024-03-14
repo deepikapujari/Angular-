@@ -1,0 +1,978 @@
+/* .h{
+    display: block;
+    justify-content: start;
+    align-items: center;
+   margin-right: auto;
+   height: 100px;
+   width: 150px;
+
+
+    
+    
+
+}
+.h1{
+    text-align-last: right;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.h2{
+    text-align: center;
+    font-size: 8px;
+    font-style: normal;
+}
+.h3{
+    text-align: end;
+
+    
+} */
+
+/* div{
+    display: block;
+    align-items: center;
+    margin-right: auto;
+    height: 10px;
+    font-weight: 10px;
+    position: fixed;
+}
+h1{
+    text-align: right;
+    font-size: 15px;
+    text-transform: uppercase;
+    
+}
+p{
+    text-align: end;
+    font-size: 8px;
+    font-style: normal;
+    
+} */
+
+/* body{
+    background-color: chocolate;
+}
+.main-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: uppercase;
+    width: 50%;
+}
+button{
+    padding: 10px;
+    color: black;
+}
+.login-btn{
+    display: flex;
+    justify-content: center;
+}  */
+
+/* body{
+    background-color: bisque;
+}
+.mainbody{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    
+
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+
+    }
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+    width: 50%;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 30px 10px;
+    color: black;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgba(182, 181, 181, 0.507);
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.main_body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+.first_sec{
+    width: 50%;
+}
+.first_sec img{
+    width: 80%;
+}
+.second_sec{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.second_sec h1{
+    font-size: 40px;
+}
+.second_sec p{
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.second_sec button{
+    text-align: center;
+    width: 25%;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 7px 20px;
+    background-color: rgba(216, 112, 147, 0.703);
+    border: none;
+    border-radius: 5px;
+} */
+
+/* .main{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210706/pngtree-natural-gradient-mobile-portrait-wallpaper-simple-minimalist-green-red-yellow-image_737622.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     width: 100%;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: start;
+    width: 100%;
+    font-size: 35px;
+    font-weight: 200%;
+    text-transform: uppercase;
+    color: rgb(38, 5, 5)
+
+}
+.fa-image{
+    color: brown;
+    display: flex;
+    font-size: 50px;
+    }
+ .header i{
+    font-size: 65px;
+ }
+
+.banner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.banner-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
+.section-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+.left{
+    width: 50%;
+}
+.header p{
+    margin-top: 0;
+}
+.img-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.img-2{
+    display: flex;
+    justify-content: center;
+}
+.right{
+    width: 50%;
+}
+.section-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.right-1{
+    width: 50%;
+}
+.left-1{
+    width: 50%;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.image1{
+    display: flex;
+    justify-content: center;
+} */
+
+ /* body {
+    background-image: url("http://nimsb.promena.in/login-bg.eed2394ad6167313.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+
+
+
+}
+
+hr {
+    border: none;
+    height: 2px;
+    width: 80%;
+    background: rgba(237, 232, 232, 0.988);
+
+
+}
+
+.login-box img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-box {
+    border-style: normal;
+    background-color: white;
+    padding: 35px;
+    border-radius: 7px;
+    width: 25%;
+
+}
+
+.login-box i {
+    color: #7181ff;
+
+}
+
+.input_sec {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.section-1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ font-size:70%; 
+    font-family: Arial;
+    color: rgba(0, 0, 0, 0.838);
+    padding: 5px 45px;
+}
+    
+
+
+.login h1 {
+    font-size: 23px;
+
+    font-family: Arial;
+    color: rgba(0, 0, 0, 0.612);
+    padding: 10px 40px;
+}
+
+
+.input-box {
+    position: relative;
+    display: flex;
+}
+
+.input-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-box input {
+    padding: 10px;
+    border-style: normal;
+    background-color: #eceeff;
+    border-radius: 5px;
+    border-color: transparent;
+    font-size: 75%;
+    width: 90%;
+}
+
+.input-box i {
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translatey(-50%);
+    font-size: 22px;
+}
+
+.forgot-password a {
+    color: #7181ff;
+    font-size: 80%;
+    padding-left: 23px;
+
+}
+
+.butn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-color: transparent;
+    width: 85%;
+    background-color: #7181ff;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.create-account {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    
+
+}  */
+
+
+/* body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210228/pngtree-blue-fashion-background-watercolor-image_573126.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+ /* .main{ 
+    margin: 0;
+    padding: 0;} */
+    
+
+
+/* .main-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    } */
+
+/* .head{
+    margin-top: 0;
+    text-align: end;
+    
+    
+}
+.banner{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.left-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    width: 50%;
+
+}
+.right{
+    width: 50%;
+    
+} */
+
+
+
+pettera
+/* body{
+    background-image: url("https://pettera.in/home_banner.32513761f3066e1c.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.main-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.section-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+
+ .left{
+    width: 60%;
+    
+
+    }
+    .content h4 {
+        color: #fff;
+      }
+      .content p{
+        color: #fff;
+      }
+      .butn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      button{
+        
+        width: 20%;
+        padding: 10px;
+        border-color: rgba(45, 167, 255, 0.99);
+        border-radius: 10px 30px;
+        background-color: transparent;
+        color: rgba(45, 167, 255, 0.99);
+        font-size: 14px;
+        font-style: bold;
+      }
+       
+
+
+.right{
+    width: 40%;
+  }
+ul li{
+    display: inline-block;
+    }
+    ul li a{
+
+        text-decoration: none;
+        color: #fff;
+        padding: 5px 20px;
+        border: 1px solid transparent;
+     }
+     ul i{
+        font-size: 30px;
+     }
+      */
+      
+html,body{
+    width: 100%;
+    overflow-x: hidden;
+    padding: 0%;
+    margin: 0;
+}
+.main_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     }       
+.main_section_body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://pettera.in/home_banner.32513761f3066e1c.png");
+    background-repeat: no-repeat;
+    background-size: cover;  
+
+} 
+
+
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-top: 10px;
+    
+} 
+.header-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    
+
+}
+.header_content{
+    display: flex;
+    flex-direction: row;
+   gap:10px;
+}
+.menus {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-left: 10px;
+    align-items: center;
+}
+.menus a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+.logo{
+    width: 25%;
+}
+.logo img{
+    width: 30%;
+    padding-left: 12px;
+}
+.header_content .icons{
+    display: flex;
+    gap: 10px;
+}
+.icons i{
+    font-size: 17px;
+    background-color:  #4ebde5;
+    color: white;
+    border-radius: 30px;
+    padding: 5px;
+    }
+
+ banner */
+
+ .banner{
+    width: 90%;
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 70px;
+    
+}
+ .banner h4{
+    width: 60%;
+    font-size: 50px;
+    margin: 0;
+}
+.banner p{
+    width: 50%;
+    font-size: 15px;
+    line-height: 2;
+    font-family: cursive;
+
+
+
+}
+span{
+    color: rgba(45, 167, 255, 0.99);
+}
+.butn{
+    padding-left: 20px;
+    
+}
+.butn button{
+    width: 16%;
+    padding: 12px 28px;
+    border-radius: 7px;
+   border-color: rgba(45, 167, 255, 0.99);
+    color: rgba(45, 167, 255, 0.99);
+    
+}
+
+.section-1{
+    
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    height: 80vh;
+    padding: 100px;
+
+}
+.section-1-left{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+}
+ 
+.section-1-right{
+    width: 60%;
+}
+.section-1-right h1{
+    font-size: 20px;
+    font-family: cursive;
+    color: rgba(45, 167, 255, 0.99);
+   }
+  .section-1-right h3{
+    font-size: 35px;
+    font-family: 'Trebuchet MS';
+    width: 60%;
+   }
+ .section-1-right p{
+    font-size: 14px;
+    font-family: cursive;
+    width: 75%;
+   }
+
+button{
+    width: 20%;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-color: rgba(45, 167, 255, 0.99);
+    color: rgba(45, 167, 255, 0.99);
+    
+}
+
+.section-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: black;
+    gap: 18%;
+    margin: 0;
+    padding: 25px;
+}
+.content-1{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+}
+.content-1 img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-1 h1{
+
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    
+}
+.content-1 P{
+    align-items: center;
+    color: white;
+    font-style: oblique;
+    font-size: 20px;
+    text-align: center;
+    
+}
+.section-3{
+    background-color: none;
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.header-3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.header-3 h1{
+    font-size: 20px;
+    font-family: cursive;
+    color: rgba(45, 167, 255, 0.99);
+}
+.header-3 p{
+  width: 100%;
+  font-size: 30px;
+  margin: 0;
+  font-family: 'Trebuchet MS';
+}
+
+.section-3-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 9
+    0%;
+}
+.section-3-left{
+    align-items: center;
+}
+.section-3-right h1{
+    font-size: 28px;
+    font-family: 'Lucida Sans Regular';
+    color: rgba(45, 167, 255, 0.99);
+}
+.section-3-right p{
+    font-family: 'Trebuchet MS';
+    width: 150%;
+    font-size: 18px;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.login-box{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+ input{
+    width: 90%;
+    padding: 10px 30px;
+    border-radius: 7px;
+    border:1px solid rgba(45, 167, 255, 0.99);
+    border-width: 1px;
+    background-color: rgb(247, 249, 250);
+    
+}
+.login-box input::placeholder{
+    font-family: cursive;
+}
+.login-box-Message input{
+    width: 91%;
+    padding: 25px 30px;
+}
+.login-box-Message input::placeholder{
+        font-family: cursive;
+}
+.section-3-right-button button{
+    width: 30%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border:1px solid rgba(45, 167, 255, 0.99);
+    color: rgba(45, 167, 255, 0.99); 
+    font-family: cursive;   
+     }
+
+     .section-4{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 70px;
+        height: 60vh;
+       
+     }
+
+     .section-4-content{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        background-image: url("https://pettera.in/download-bg.3a5915cc1364faa1.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 70px;
+        
+        
+       }
+       .section-4-left{
+        display: flex;
+        flex-direction: column;
+        padding-left: 40px;
+        
+        
+         }
+       .section-4-left h5{
+        font-size: 20px;
+        font-family: cursive;;
+        color: rgba(45, 167, 255, 0.99);
+        margin-bottom: 0;
+    
+       }
+       .section-4-left p{
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 56%;
+        line-height: 2;
+        margin-top: 0.1;
+         }
+       .section-4-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+         }
+       .section-4-right{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        gap: 10px;
+         }
+       .section-5{
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        background-image: url("https://pettera.in/footer_bg.6e5c1e3cd65baef4.png");
+        background-size: cover;
+       }
+       .section-5-content{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 60px;
+        padding: 70px;
+       }
+       .section-5-icons{
+
+        display: flex;
+        gap: 10px;
+       }
+       .section-5-icons i{
+        background-color: white;
+        color: #00bbff;
+        border-radius: 30px;
+        padding: 5px;
+        font-size: 20px;
+        }
+      
+       .section-5-part{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 20%;
+       }
+       .about-us h1{
+        color: white;
+        font-size: 20px;
+        font-family: cursive;
+       }
+       .about-us p{
+        font-size: 13px;
+        display: flex;
+        color: white;
+        line-height: 2;
+    
+        }
+       .quick-link{
+        width: 20%;
+        }
+        .quick-link h1{
+            color: white;
+            font-size: 20px;
+            font-family: cursive;
+
+        }
+        .quick-link p{
+            font-size: 13px;
+            margin: 0;
+            color: white;
+            line-height: 2;
+         }
+         .services{
+            width: 20%;
+         }
+         .services h1{
+            font-size: 20px;
+            font-family: cursive;
+            color: white;
+
+         }
+         .services p{
+            font-size: 13px;
+            margin: 0;
+            color: white;
+            line-height: 2;
+         }
+         .contact-us{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 20%;
+           }
+           .contact-us h1{
+            font-size: 20px;
+            font-family: cursive;
+            color: white;
+           }
+
+    
+
+           
+          

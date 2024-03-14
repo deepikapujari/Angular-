@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NTItZi0wMTQuanBn.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+width: 500px;
+height: 390px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-image: url("https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MDQtYmctMDNiLmpwZw.jpg");
+border-radius: 40px;
+gap: 7px;
+}
+
+.head h2{
+    color:  rgb(41, 8, 8);
+    
+}
+h2{
+font-size: 36px;
+text-align: center;
+}
+
+.input-box{
+    position: relative;
+}
+    
+.input-box input{
+    width: 100%;
+    margin: 18px 0;
+    padding: 12px;
+    border-radius: 7px;
+    background-color: transparent;
+    
+    }
+    .input-box input::placeholder{
+         color: rgb(41, 8, 8); 
+    }
+
+    
+
+ .input-box i{
+    position: absolute;
+    right: 15px;
+    top: 40%;
+    color: rgb(41, 8, 8);;
+
+ }
+    
+   .forgot-pass {
+    display: flex;
+    flex-direction: row;
+ }
+ .forgot-pass p,a{
+    font-size: 12px;
+    margin-bottom: 20%;
+    
+}
+    .butn{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    } 
+    button{
+    width: 180px;
+    padding: 12px;    
+    border-radius: 12px;
+    font-size: 18px;
+    font-family: Georgia;
+    color: rgb(41, 8, 8);
+    background-color: transparent;
+    }
+    
+ 

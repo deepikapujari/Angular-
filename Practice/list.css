@@ -1,0 +1,99 @@
+/* .img{
+    width: 10;
+} */
+/* h1{
+    color: red;
+}
+li{
+    color: blueviolet;
+}
+li{
+    color: aqua;
+}
+li{
+    color: brown;
+} */
+/* body{
+    background-color: #616161;
+}
+h1{
+    background-color: hsl(265,100%,50%);
+    text-align: center;
+    font-family: Franklin ;
+    font-weight: 100;
+}
+p{
+    background-color: #fc9;
+    text-align: end;
+    
+}
+.style{
+    background-color: #ee82ee;
+}
+.style1{
+    background-color: rgb(255,165,0);
+}
+.style2{
+    background-color: #b58;
+}
+.style3{
+    background-color: #3cb371;
+} */
+
+/* ul{
+    background: #ff9999;
+    padding: 5px;
+    list-style-type: armenian;
+    width: 100%;
+    
+    
+} 
+li{
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    list-style-type: lower-roman;
+    width: 100%;
+} */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+}
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/05/97/16/07/360_F_597160742_I1ZvDpPkaPDlmaj5CgQiQJDprufFqv2j.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    min-height: 100px;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 30px;
+    min-height: 400px;
+    margin-right: 60px;
+    font-size: 17px;
+}
+ul li{
+display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+}
+.logo i{
+    float: left;
+    width: 150px;
+    height: auto;
+    font-size: 80px;
+    color: white;
+}
+.main{
+    max-width: 1200;
+    margin: auto;
+}
